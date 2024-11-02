@@ -1,0 +1,5 @@
+Dataset:
+C. Bisaillon, "Fake and Real News Dataset," 2022. [Online]. Available: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset. 
+
+YouTube Link:
+https://youtu.be/J6EKvvFwRXk
